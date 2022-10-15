@@ -1,0 +1,15 @@
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/bin/Debug/netstandard2.0/YpsiNews.deps.json
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/bin/Debug/netstandard2.0/YpsiNews.dll
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/bin/Debug/netstandard2.0/ref/YpsiNews.dll
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/bin/Debug/netstandard2.0/YpsiNews.pdb
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.csproj.AssemblyReference.cache
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.AssemblyInfoInputs.cache
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.AssemblyInfo.cs
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.dll
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/ref/YpsiNews.dll
+/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews/obj/Debug/netstandard2.0/YpsiNews.pdb

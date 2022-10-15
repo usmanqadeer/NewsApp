@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WcWIy8WxKfonnwUu7LCc3rtMQrQzC+MN2dvY4JV2ircMdoLvdc+YyuOh7mYTGCSnvhYCvNDWKz0kTAa5bDn4g==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Desktop/YpsiNews/YpsiNews/YpsiNews.iOS/YpsiNews.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}
